@@ -1,0 +1,126 @@
+# FastAPI Backend Core
+fastapi==0.116.1
+uvicorn==0.35.0
+sqlalchemy==2.0.41
+pydantic==2.11.7
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+# Core Frameworks
+fastapi==0.116.1
+uvicorn==0.35.0
+Flask==3.1.0
+Flask-Cors==5.0.0
+Django==5.1.2
+
+# ORMs and Database
+SQLAlchemy==2.0.41
+psycopg2-binary==2.9.10
+sqlparse==0.5.1
+
+# Environment and Utility
+python-dotenv==1.1.1
+requests==2.32.3
+python-multipart==0.0.20
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+urllib3==2.2.3
+click==8.1.8
+Werkzeug==3.1.3
+itsdangerous==2.2.0
+Jinja2==3.1.5
+
+# Elasticsearch
+elasticsearch==8.11.1
+elastic-transport==8.17.0
+
+# AWS and Cloud
+boto3==1.37.18
+botocore==1.37.18
+s3transfer==0.11.4
+jmespath==1.0.1
+
+# ML/AI
+transformers==4.48.2
+huggingface-hub==0.28.1
+sentence-transformers==3.4.1
+torch==2.6.0
+tokenizers==0.21.0
+scikit-learn==1.6.1
+scipy==1.15.1
+numpy==1.26.4
+pandas==2.2.1
+joblib==1.4.2
+tqdm==4.67.1
+threadpoolctl==3.5.0
+faiss-cpu==1.10.0
+safetensors==0.5.2
+
+# Jupyter/IPython (optional, for local dev)
+ipykernel==6.29.4
+ipython==8.23.0
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+pyzmq==25.1.2
+traitlets==5.14.2
+matplotlib-inline==0.1.6
+
+# Data Visualization and Math
+matplotlib==3.9.2
+contourpy==1.2.1
+cycler==0.12.1
+fonttools==4.51.0
+kiwisolver==1.4.5
+pyparsing==3.1.2
+pillow==10.3.0
+sympy==1.13.1
+mpmath==1.3.0
+
+# Pydantic and Typing
+pydantic==2.11.7
+pydantic_core==2.33.2
+annotated-types==0.7.0
+typing-inspection==0.4.1
+typing_extensions==4.12.2
+
+# Async, Events, and Web
+anyio==4.6.2.post1
+asgiref==3.8.1
+h11==0.16.0
+sniffio==1.3.1
+starlette==0.41.0
+nest-asyncio==1.6.0
+
+# Dev/Debugging
+debugpy==1.8.1
+stack-data==0.6.3
+executing==2.0.1
+asttokens==2.4.1
+pure-eval==0.2.2
+Pygments==2.17.2
+decorator==5.1.1
+
+# Misc
+colorama==0.4.6
+psutil==5.9.8
+platformdirs==4.2.0
+filelock==3.17.0
+six==1.16.0
+fsspec==2025.2.0
+future==1.0.0
+greenlet==3.1.1
+gevent==24.11.1
+gunicorn==23.0.0
+pyyaml==6.0.2
+tornado==6.4
+pexpect==4.9.0
+ptyprocess==0.7.0
+comm==0.2.2
+blinker==1.9.0
+appnope==0.1.4  # macOS only, can remove on Linux
+
+# Optional (only if used)
+regex==2024.11.6
+speechrecognition==3.14.1
+tldextract==5.1.3
+requests-file==2.1.0

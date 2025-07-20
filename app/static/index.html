@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KPA Backend</title>
+    <link rel="icon" href="/favicon.ico">
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            padding: 2em;
+        }
+        a.button {
+            display: inline-block;
+            margin: 10px;
+            padding: 12px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.3s;
+        }
+        a.button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚆 KPA Backend is Running!</h1>
+    <p>This is the homepage served at <code>/</code>.</p>
+    <p>Use the buttons below to explore the API and features:</p>
+
+    <div>
+        <a href="/docs" class="button">📖 Swagger UI</a>
+        <a href="/redoc" class="button">📘 ReDoc</a>
+        <a href="/bogie-checksheet/" class="button">📋 View Bogie Checksheets</a>
+        <a href="/bogie-checksheet/" class="button">➕ Add Checksheet (POST)</a>
+    </div>
+</body>
+</html>
