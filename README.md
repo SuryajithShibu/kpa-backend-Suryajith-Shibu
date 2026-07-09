@@ -61,22 +61,19 @@ kpa_backend/
 
 ```bash
 docker-compose up --build
+```
 
-Access:
-App: http://localhost:8000
-Swagger Docs: http://localhost:8000/docs
+### 🌐 Access Points
+* **Application API Gateway:** http://localhost:8000
+* **Interactive Swagger Documentation:** http://localhost:8000/docs
 
-👨‍💻 Developer
+## 🧑‍💻 Developer
+* **Name:** Suryajith Shibu
+* **GitHub:** [@SuryajithShibu](https://github.com)
 
-Name: Suryajith Shibu
-GitHub: @SuryajithShibu
-
-📃 License
-
-This project is for educational purposes only.
+## 📄 License
+This project is developed strictly for educational and portfolio demonstration purposes.
 
 ---
-
-
-
-##💡 *Engineered as an advanced software portfolio showcase to demonstrate asynchronous API routing paradigms, object-relational mapping design layers, relational database persistence modules, and containerized backend architectures using Python.*
+💡 *Engineered as an advanced software portfolio showcase to demonstrate asynchronous API routing paradigms, object-relational mapping design layers, relational database persistence modules, and containerized backend architectures using Python.*
+*
